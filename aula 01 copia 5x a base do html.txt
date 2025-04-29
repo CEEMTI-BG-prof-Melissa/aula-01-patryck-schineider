@@ -1,0 +1,70 @@
+<html>
+	<head>
+		<title> Não sei fazer site no bloco de nota, Melissa </title>
+		<style>
+			.inicial{
+				background_color: blue;
+				display: flex;
+				text-aligh: center;
+			}
+			.inicial h2{
+				color: yellow;
+			}
+			.inicial h2{
+				color: yellow;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="inicial">
+			<h1> Não sei fazer site no bloco de nota, Melissa </h1>
+			<p> Quero ir embora </p>
+		</div>
+	</body>
+</html>
+==================================================================================
+1)
+<html>
+	<head>
+		<title> </title>
+	</head>
+	<body>
+	</body>
+</html>
+
+2)
+<html>
+	<head>
+		<title> </titel>
+	</head>
+	<body>
+	</body>
+</html>
+
+3)
+<html>
+	<head>
+		<title> </title>
+	</head>
+	<body>
+	</body>
+</html>
+
+4)
+<html>
+	<head>
+		<title> </title>
+	</head>
+	<body>
+	</body>
+</html>
+
+5)
+<html>
+	<head>
+		<title> </title>
+	</head>
+	<body>
+	</body>
+</html>
+
