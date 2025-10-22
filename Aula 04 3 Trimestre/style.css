@@ -1,1 +1,42 @@
+* {
+    font-family: Arial, sans-serif;
+}
 
+h1{
+    font-style: italic;
+    font-weight: bolder;
+}
+
+h2{
+    font-family: Georgia, serif;
+    font-size: 24px;
+}
+
+#p1{
+    font-style: oblique;
+}
+
+#p2{
+    font-weight: bold;
+}
+
+#p3{
+    font-family: Brush Script MT, italic;
+    font-weight: bolder;
+    font-size: 32px;
+}
+
+#p4{
+    font-size: 20px;
+    font-family: Papyrus;
+}
+
+#p5{
+    font: oblique bolder 16px Verdana, sans-serif;
+}
+
+div p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: gray;
+}
